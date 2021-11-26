@@ -1,6 +1,6 @@
 # React_ES6_Spread_Operator-
 
-## Example Code App.js and Index.JS
+## Example Code || Create App.js and Index.JS
 ```
 import React, { useState } from "react";
 
