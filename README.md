@@ -1,6 +1,6 @@
 # React_ES6_Spread_Operator-
 
-## Example Code
+## Example Code App.js and Index.JS
 ```
 import React, { useState } from "react";
 
@@ -43,5 +43,12 @@ function App() {
 
 export default App;
 
+// Index File
+
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
+
+ReactDOM.render(<App />, document.getElementById("root"));
 
 ```
